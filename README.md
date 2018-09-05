@@ -2,4 +2,24 @@
 image
 
 
-![](https://raw.githubusercontent.com/Insightzen/image/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180905153959.png)
+##InsightZen-Logo-1.png
+
+![InsightZen-Logo-1.png](https://raw.githubusercontent.com/Insightzen/image/master/InsightZen-Logo-1.png)
+
+----
+
+##InsightZen-Logo-Light-1.png
+
+![InsightZen-Logo-Light-1.png](https://raw.githubusercontent.com/Insightzen/image/master/InsightZen-Logo-Light-1.png)
+
+----
+
+##ai_driven_health_insurance_analysis.png
+
+![](https://raw.githubusercontent.com/Insightzen/image/master/ai_driven_health_insurance_analysis.png)
+
+ --------
+ 
+ 
+ 
+ 
